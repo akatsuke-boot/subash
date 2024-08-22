@@ -1,0 +1,10 @@
+body {
+    background: rgb(153, 29, 29);
+  }
+  .head{
+    color: black;
+    position: relative;
+    text-align:left;
+    top: 0%;
+    left: 3%;
+  }
